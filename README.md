@@ -30,7 +30,7 @@ The calculations use classical numerical methods to investigate the accuracy of 
 
 The full dissertation, including the theoretical background, mathematical derivations and discussion of results, is available below.
 
-**[Read the full dissertation](report/Exploring_Quantum_Computing_in_Particle_Physics.pdf)**
+**[Read the full dissertation](dissertation/Exploring_Quantum_Computing_in_Particle_Physics.pdf)**
 
 ## Tools
 
